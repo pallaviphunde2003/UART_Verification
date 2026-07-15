@@ -1,0 +1,5 @@
+`include "parameters.sv"
+`include "uart_ctrl.v"
+`include "uart_phy.v"
+`include "uart_tx.v"
+`include "uart_rx.v"
